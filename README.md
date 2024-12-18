@@ -1,4 +1,4 @@
-# learning-nonlinear-fus-with-neural-operators
+# nonlinear-fus-with-neural-operators
 
 This repository contains the necessary code for training and testing a convolutional deep operator network for predicting focused ultrasound propagation in patient-specific spinal cord anatomy. 
 
